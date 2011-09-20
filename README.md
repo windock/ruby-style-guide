@@ -302,11 +302,11 @@ community.
         # ...
       end
 
-    private
+      private
 
-      def private_method
-        # ...
-      end
+        def private_method
+          # ...
+        end
     end
 
 * Never put a space between a method name and the opening parenthesis.
